@@ -1,0 +1,36 @@
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.exe
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.runtimeconfig.json
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.dll
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\CallCenter.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.csproj.CopyComplete
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.dll
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\refint\TestTechniqueCapGemini.dll
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\ref\TestTechniqueCapGemini.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.exe
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.runtimeconfig.json
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\TestTechniqueCapGemini.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\bin\Debug\net6.0\CallCenter.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.csproj.CopyComplete
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\refint\TestTechniqueCapGemini.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\TestTechniqueCapGemini.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\TestTechniqueCapGemini\obj\Debug\net6.0\ref\TestTechniqueCapGemini.dll

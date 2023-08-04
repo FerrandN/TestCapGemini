@@ -1,0 +1,24 @@
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\bin\Debug\net6.0\CallCenter.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\bin\Debug\net6.0\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\bin\Debug\net6.0\CallCenter.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\refint\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\ECF\Design Pattern\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\ref\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\bin\Debug\net6.0\CallCenter.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\bin\Debug\net6.0\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\bin\Debug\net6.0\CallCenter.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\refint\CallCenter.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\CallCenter.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestCapGemini\TestTechniqueCapGemini\CallCenter\obj\Debug\net6.0\ref\CallCenter.dll
